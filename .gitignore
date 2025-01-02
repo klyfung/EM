@@ -1,0 +1,5 @@
+# leighfung gitignore
+
+# Drafts of documentation files
+*.doc
+*.docx
